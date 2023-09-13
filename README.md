@@ -9,7 +9,7 @@ O frontend da aplicação foi desenvolvido com Angular e o backend foi simulado 
 `em desenvolvimento`
 
 ## Protótipo
-`em desenvolvimento`
+https://www.figma.com/file/AGjo5eKBOGH15JJWcsMf6q/Gerenciamento-de-Agenda-de-Contatos?type=design&node-id=1%3A5&mode=design&t=SXKpY452dSp7GWEm-1
 
 ## Checklist
 
