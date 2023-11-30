@@ -1,0 +1,38 @@
+body,
+html {
+  background-color: #ededed !important;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  max-width: 37.5rem;
+  margin: 3.125rem auto;
+  padding: 1.25rem;
+  background-color: #ededed;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 0.625rem rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h1 {
+  padding: 2.8125rem;
+  font-size: 2.5rem;
+}
+.btn {
+  display: block;
+  padding: 0.625rem 1.25rem;
+  margin: 0.625rem auto; 
+  text-decoration: none;
+  color: #ededed;
+  background-color: rgba(29, 55, 89, 1);
+  border-radius: .3125rem;
+}
+
+.bg-rgba,.bg-rgba {
+    background-color: rgba(29, 55, 89, 1);
+}
+
+.tittle-home {
+  font-weight: bold;
+}
