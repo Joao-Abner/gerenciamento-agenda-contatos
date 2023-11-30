@@ -1,13 +1,19 @@
 body,
 html {
+  margin: 0;
+  padding: 0;
   background-color: #ededed !important;
   font-family: Arial, sans-serif;
   text-align: center;
 }
 
+.menu {
+  margin-top: 3.75rem;
+}
+
 .container {
   max-width: 37.5rem;
-  margin: 3.125rem auto;
+  margin: 1.125rem auto;
   padding: 1.25rem;
   background-color: #ededed;
   border-radius: 0.5rem;
